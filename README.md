@@ -56,7 +56,7 @@ npm start
 ### ⚠️ Warning
 
 - **Do NOT copy, modify, or redistribute** this bot without **proper permission**.
-- 𝚻𝚰𝚳𝚴𝚫𝐒𝚫-𝚻𝚾𝚳𝐃 is an **open-source project**, but it is protected by its license and community standards.
+- 𝚻EDDY XMD is an **open-source project**, but it is protected by its license and community standards.
 - Give **proper credits** to the original authors and libraries used.
 - Any misuse or abuse of this bot is **strictly prohibited**.
 
@@ -65,7 +65,7 @@ npm start
 ### HELP :
 **IF you need any help**
 - [**CLICK HERE**](https://wa.me/254799963583)
-- [**Click here to get more**](https://timnasa.vercel.app/) 
+- [**Click here to get more**](https://teddytechweb.vercel.app/) 
 
 
 ***
