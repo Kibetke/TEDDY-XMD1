@@ -73,7 +73,7 @@ ______________________________________
 ║❒ *Owner:* _+254799963583
 ║❒ *Repo:* _https://github.com/Teddytech1/TEDDY-XMD
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6NveDBPzjPa4vIRt3n_
-║❒ *Follow GitHub:*https://github.com
+║❒ *Follow GitHub:*https://github.com/Teddytech1
 ╚════════════════════════╝
 ___________________________________
 ∆∆∆∆∆∆∆∆∆∆∆∆∆∆
